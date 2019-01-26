@@ -9,6 +9,7 @@ public class LoginAction{
 	
 	
 	public void login(){
+	system.out.println("123");
 	}
 	
 	public String getName() {
